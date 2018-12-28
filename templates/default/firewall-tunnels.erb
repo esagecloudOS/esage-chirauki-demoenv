@@ -1,0 +1,8 @@
+<% if node['demoenv']['tunnel_info'] %>
+<% node['demoenv']['tunnel_info'].each do |ip, info| %>
+-A INPUT -s <%= ip %> -p udp -m udp --dport <%= info['port'] %> -j ACCEPT
+<% end %>
+<% end %>
+<% if node['demoenv']['my_tunnel'] %>
+-A INPUT -s <%= node['demoenv']['my_tunnel']['monolithic'] %> -p udp -m udp --dport <%= node['demoenv']['my_tunnel']['port'] %> -j ACCEPT
+<% end %>

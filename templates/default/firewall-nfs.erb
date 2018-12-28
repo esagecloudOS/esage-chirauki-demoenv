@@ -1,0 +1,8 @@
+<% node['nfs']['port'].values.each do |port| %>
+-A INPUT -p tcp -m tcp --dport <%= port %> -j ACCEPT
+-A INPUT -p udp -m udp --dport <%= port %> -j ACCEPT
+<% end %>
+-A INPUT -p tcp -m tcp --dport 111 -j ACCEPT
+-A INPUT -p udp -m udp --dport 111 -j ACCEPT
+-A INPUT -p tcp -m tcp --dport 2049 -j ACCEPT
+-A INPUT -p udp -m udp --dport 2049 -j ACCEPT

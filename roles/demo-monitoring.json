@@ -1,0 +1,25 @@
+{
+  "name": "demo-monitoring",
+  "description": "DEMO env Monitoring appliance",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+    "abiquo": {
+      "yum": {
+        "base-repo": "http://mirror.abiquo.com/el$releasever/3.10/os/x86_64/",
+        "updates-repo": "http://mirror.abiquo.com/el$releasever/3.10/updates/x86_64/",
+        "gpg-check": false
+      },
+      "profile": "monitoring"
+    }
+  },
+  "override_attributes": {
+
+  },
+  "chef_type": "role",
+  "run_list": [
+    "recipe[demoenv]"
+  ],
+  "env_run_lists": {
+
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "demo-nfs",
+  "description": "DEMO env NFS server",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+    "abiquo": {
+      "profile": "nfs"
+    }
+  },
+  "override_attributes": {
+
+  },
+  "chef_type": "role",
+  "run_list": [
+    "recipe[demoenv]"
+  ],
+  "env_run_lists": {
+
+  }
+}

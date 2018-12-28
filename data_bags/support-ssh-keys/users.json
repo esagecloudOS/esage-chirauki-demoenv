@@ -1,0 +1,19 @@
+{
+  "id": "users",
+  "marc.cirauqui@abiquo.com": {
+    "key": "AAAAB3NzaC1yc2EAAAADAQABAAABAQCxwT+/WJ7h3DkUcxlJwZ+p3r87RAR7//sj/b3Z4lOcFJaZfLUxe4DBxasyUfNd7xtuMnT0hzKAoB/5odUpQeHWYcu4rc4d03872VKmU2StHdbytMu8wH+gK06nAsiq4bqTMuW+WzlNqysVLIgWWvbSKqwVZVbDvYYM7GjqmUX8VOMaI+Xsi/gegRS0FT0mwGwK3gbCFI8DTLbFlz1/UWt5D9Nvfji0QaCsQiG/GNdiqAMIDu25JP0XWlBIzA83VmXF5yVmgMjKMgrScOH2pvpZMGwGebotWCdTbwFjAmDyb8rYpXPjdIk/gm9whhCpSw/qDUORxifo8AoO/V7pXyK7",
+    "user": "root"
+  },
+  "sergio.pena@abiquo.com": {
+    "key": "AAAAB3NzaC1yc2EAAAADAQABAAABAQClmXDgr3M0cjcc83BhvnGpWTJFNg1fr8JV1wCEN8CPWxea6yFk6qXVxNol1T/Qls60o1cAdumDn035Cawn74Myuw3xoWkj7mWRv62gu1x9Gbs8GlOq1biT6YtPAte9G10X7upgGkW0y0PR76+5ZWWRPZTNTkiAyaZ7X+xy5k4UjeUfU9Fy9ZZD2ZuuzRYjJPn9Jwxhm90WycPkGlXmkVyoS0z6Stx/3X7UGU2TKdXDcYqgOAPspb2qTojnxCDV5IygOs0g885wIi28hCvq6aeUJlebczta14CnDzbVo+PA1MMybGXsXPPBWClRNmJLdfpR3G2U14l/eYClxhF2RjcX",
+    "user": "root"
+  },
+  "antxon.gonzalez@abiquo.com": {
+    "key": "AAAAB3NzaC1yc2EAAAADAQABAAABAQCqTsad+zkxu5uqo4EI0I6OGXPVMOe8vERDlAtGYiZMHGD276Udg0oUP+Vq18he2anhbKzsyHcqv72omlom0ZnOitc4935nWJsTPGEJMVkbI0Wj/fktLLGa+LhMBjHOdve8kGOnPhkL9I0Z8fPJKDkeeeAagoz6t+Psbnyx/ETSfDNYBopPH9kgdM8U0mq1Xn6f8Q1XsNZ5eNp33cPM6QTKa9o1WaYP3zalSs+g1lelQTVCtJx+zoXLDI68azwrV/FUXZ/JU1p2TkV5ELTk5UNlBvbzwWpRwguiRsT3KhxYdpfVvvHIMpHwjOpY32NQI3smJPndeFSeYF89shP0LQcX",
+    "user": "root"
+  },
+  "albert.rabassa@abiquo.com": {
+    "key": "AAAAB3NzaC1yc2EAAAADAQABAAABAQC7PKQp9zdG6+8XuGN1ZspYCszZGGZYaJoTgb+/83h9g0VkeN6YwgkMozsRZreiSmrgfe2qm9qpLxNUO6TEvqRJYYV5YRxqktA47sQIKYuLy+El0LI1JnFdlLcqE+tHIpnv3lxITIZt6trRBqUcylHVHaN26DTpJtLHTMcACB5gt88Xb0GZyOz36J5EmuBbFti7mN/S2TDvboszXrT84SeAzv24qUkZ0cVmyRc75fQXwJXfEj1fEzfKzj7E+apRp6zhg6ObWGMguFwBDmCyRc2OmLyFUuMkAA3k7osBVREnDdcpI95z/c7/a7vEWnLmfCk56PQoiJeCAJKcZhle/KDh",
+    "user": "root"
+  }
+}

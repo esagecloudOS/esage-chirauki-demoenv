@@ -1,0 +1,20 @@
+{
+  "name": "demo-reporting",
+  "description": "DEMO env reporting server",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+    "abiquo": {
+      "profile": "reporting"
+    }
+  },
+  "override_attributes": {
+
+  },
+  "chef_type": "role",
+  "run_list": [
+    "recipe[demoenv]"
+  ],
+  "env_run_lists": {
+
+  }
+}

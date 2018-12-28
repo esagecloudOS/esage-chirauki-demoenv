@@ -1,0 +1,25 @@
+{
+  "regions": [
+    {
+      "provider": "digitalocean2",
+      "region": "ams2",
+      "name": "DO ams2"
+    },
+    {
+      "provider": "digitalocean2",
+      "region": "lon1",
+      "name": "DO lon1"
+    },
+    {
+      "provider": "AMAZON",
+      "region": "eu-west-1",
+      "name": "AWS eu-west-1"
+    },
+    {
+      "provider": "azurecompute-arm",
+      "region": "westeurope",
+      "name": "Azure ARM West EU"
+    }
+  ],
+  "id": "regions"
+}
